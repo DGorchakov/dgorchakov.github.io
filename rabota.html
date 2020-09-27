@@ -1,0 +1,51 @@
+<h1> Предложение вакансии <br> </h1>
+<p> Дмитрий, у нас есть очень интересная вакансия для Вас:<br></p?
+<form action="/signup" method="POST">
+  <p>
+    <label> График работы: </label>
+    <label>
+      <input type="radio" name="title" value="office">
+      В офисе
+    </label>
+    <label>
+      <input type="radio" name="title" value="distance">
+      Удалённо
+    </label>
+	<label>
+      <input type="radio" name="title" value="mix">
+     Частично удалённо
+    </label>
+  </p>
+<p>
+ <label>Зарплата</label>
+    <select name="country">
+	<option>  </option>
+      <option>Маленькая (до 50 тр.) </option>
+      <option>Ниже средней (от 50 до 70 т.р.) </option>
+      <option> Средняя (70 - 80 т.р.) </option>
+      <option>Высокая (80-100 т.р.) </option>
+      <option>Я согласен (более 100 т.р.)</option>
+    </select>
+  </p>
+  <p>
+    <label>Название организации</label>
+    <input type="text" name="org_name">
+  </p>
+  <p>
+    <label>Имя HR специалиста</label>
+    <input type="text" name="last_name">
+  </p>
+  <p>
+    <label>Email специалиста </label>
+    <input type="email" name="email">
+  </p>
+  <p>
+    <label>Телефон</label>
+    <input type="tel" name="phone">
+  </p>
+  
+    <button>
+      Направить предложение о работе
+    </button>
+  </p>
+</form>
