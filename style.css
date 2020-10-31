@@ -60,6 +60,15 @@ width: 50.615861214%;
 width: 25.615861214%;
 }
 
+.name {
+  float: left;
+width: 80.615861214%;
+}
+.name2 {
+  float: right;
+width: 4.615861214%;
+}
+
 .hr {
   float: left;
 width: 25.615861214%;
