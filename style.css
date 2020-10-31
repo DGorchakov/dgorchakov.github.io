@@ -10,7 +10,6 @@ h1 {
 h2 {
 	color: DarkSlateGray;
 	font-family: arial;
-	line-height: 27px;
 	font-weight: bold
 	
 	
@@ -35,8 +34,10 @@ form {
 
 .myname {
 	background: #696969;
-	margin: 1% 0;
-  padding: 20px 0;
+	margin: 0% 0;
+  padding: 5px 0;
+  overflow: auto;
+  margin: 1%;
   
 }
 
