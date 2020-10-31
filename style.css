@@ -52,6 +52,11 @@ width: 25.615861214%;
 width: 50.615861214%;
 text-align: justify;
 }
+hr.stepp {
+	width: 70%;
+	align: center;
+}
+
 hr {
 	align: left;
 	width: 50px;
@@ -59,13 +64,29 @@ hr {
 	
 }
 
+.learn {
+	background: GhostWhite;
+	overflow: auto;
+}
+
 .it1 {
   float: left;
 width: 25.615861214%;
 }
 .it {
- float: left;
-width: 45.615861214%;
+  float: left;
+width: 50.615861214%;
+text-align: justify;
+}
+
+.steps {
+  float: left;
+width: 10.615861214%;
+overflow: auto;
+}
+.steps1 {
+  float: left;
+width: 70.615861214%;
 text-align: justify;
 }
 
@@ -115,6 +136,20 @@ line-height: 22px;
 text-align: inherit;
  letter-spacing: -.1em;
 }
+
+button {
+	 font-weight: 700;
+  color: white;
+  text-decoration: none;
+  padding: .8em 1em calc(.8em + 3px);
+  border-radius: 3px;
+  background: rgb(64,199,129);
+  box-shadow: 0 -3px rgb(53,167,110) inset;
+  transition: 0.2s;
+
+}
+button: hover { background: rgb(232,95,76);
+button: active { background: rgb(152,15,0);
 
 dl {
 	line-height: 27px;
