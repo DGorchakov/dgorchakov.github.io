@@ -1,0 +1,137 @@
+
+h1 {
+	 font-family: arial;
+	  text-transform: uppercase;
+	  color: WhiteSmoke;
+	  text-align: center;
+	 
+}
+
+h2 {
+	color: DarkSlateGray;
+	font-family: arial;
+	line-height: 27px;
+	font-weight: bold
+	
+	
+}
+
+.myname {
+	background: #696969;
+	margin: 1% 0;
+  padding: 20px 0;
+  
+}
+
+.part {
+	overflow: auto;
+  margin: 2.858736059%;
+  padding: 10px 0;
+}
+
+.introduction{
+	background: #FFEBCD;
+	 text-align: center;
+}
+
+.intro {
+  float: left;
+width: 50.615861214%;
+}
+.intro1 {
+  float: left;
+width: 25.615861214%;
+}
+
+.hr {
+  float: left;
+width: 25.615861214%;
+}
+.hr1 {
+  float: left;
+width: 58.615861214%;
+text-align: justify;
+}
+hr {
+	align: left;
+	width: 50px;
+	size: 100%;
+	
+}
+
+.it1 {
+  float: left;
+width: 25.615861214%;
+}
+.it {
+  float: left;
+width: 58.615861214%;
+text-align: justify;
+}
+
+p{
+	color: DarkSlateGray;
+	font-size: 20px;
+	font-family:Arial
+	
+	
+}
+
+.photo {
+	border-radius: 50%;
+}
+	
+
+.aboutme {
+ background: #FFF8DC;
+  color: LightSlateGray;
+}
+
+li {
+color: #FFE4C4}
+
+.box-set,
+.box {
+  border-radius: 6px;
+}
+.box-set {
+  background: #eaeaed;
+  overflow: auto;
+}
+.box {
+  background: #2db34a;
+  float: left;
+  margin: 1.858736059%;
+  padding: 20px 0;
+  text-align: center;
+  width: 19.615861214%;
+}
+
+footer {
+background: Gainsboro;
+font-size: 10px;
+padding-left: 10px;
+line-height: 22px;
+text-align: inherit;
+ letter-spacing: -.1em;
+}
+
+dl {
+	line-height: 27px;
+}
+
+
+footer p {
+	color: DarkSlateGrey;
+	
+}
+
+
+
+dl {
+	text-align: center;
+}
+
+.photo {
+	text-align: center;
+}
