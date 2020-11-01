@@ -1,4 +1,0 @@
-p {
- background: lightgreen;
-  color: darkgreen;
-}
